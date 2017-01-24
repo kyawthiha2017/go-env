@@ -4,5 +4,5 @@
 applications:
 # We have reserved a name/route for your app
 - name: go-env
-  host: go-env01
+  host: go-env03
   domain: hcf.helionit.io
